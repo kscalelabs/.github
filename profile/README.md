@@ -11,10 +11,8 @@
 
 <hr />
 
-K-Scale Labs is a machine learning startup building software for the next generation of embodied artificial intelligence.
+K-Scale Labs is a machine learning startup building software for the next generation of embodied artificial intelligence
 
-Located near Stanford in the heart of Silicon Valley, we are a team of engineers and researchers with the mission to build a future where billions of humanoid robots assist humans with everything from household chores to industrial labor.
+Our mission is to move humanity to a Type 1 Kardashev civilization, by making general-purpose robotic intelligence ubiquitous
 
-Our first development, Stompy, is an open-source bipedal humanoid robot that can be easily manufactured by individuals using 3D printing. Stompy is a template low-cost humanoid robot that can be customized or used as a reference design.
-
-If you are interested in building or developing your own humanoid robot, please get in touch.
+If you would like to build your own robot, or otherwise learn how to get involved, please [get in touch](mailto:ben@kscale.dev)
