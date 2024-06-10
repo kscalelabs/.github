@@ -16,8 +16,6 @@
 
 <hr />
 
-# K-Scale Labs
-
 K-Scale Labs is a machine learning startup building software for the next generation of embodied artificial intelligence.
 
 Located near Stanford in the heart of Silicon Valley, we are a team of engineers and researchers with the mission to build a future where billions of humanoid robots assist humans with everything from household chores to industrial labor.
