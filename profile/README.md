@@ -1,9 +1,3 @@
-<p align="center">
-  <picture>
-    <img alt="K-Scale Open Source Robotics" src="https://media.kscale.dev/kscale-open-source-header.png" style="max-width: 100%;">
-  </picture>
-</p>
-
 <div align="center">
 
 [![Discord](https://img.shields.io/discord/1224056091017478166)](https://discord.gg/k5mSvCkYQh)
